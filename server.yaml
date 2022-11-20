@@ -7,7 +7,7 @@ repos:
    allowed_workflows: [custom]
    allow_custom_workflows: true
    delete_source_branch_on_merge: true
- - id: //hub.com/Atlipoka/terraform
+ - id: https://github.com/Atlipoka/terraform
 
 workflows:
   custom:
