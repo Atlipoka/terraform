@@ -1,4 +1,3 @@
-
 locals {
   instance_zone = {
     env = "ru-central1-a"
